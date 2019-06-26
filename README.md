@@ -1,4 +1,4 @@
-> 현재 AWSKRUG에서 번역작업을 진행하고 있습니다. 번역작업에 참가하고 싶으신 분들은 [Issues](https://github.com/awskrug/non-profit-blockchain/issues)에서 파일별로 마련된 이슈티켓을 댓글을 남겨 주시기 바랍니다. 번역 작업은 [AWSKRUG 번연 가이드라인](https://github.com/awskrug/awskrug-rule-book/wiki/Hands-on-lab-translation-guide)에 따라 진행되오니 꼭 숙지하여 주시기 바랍니다. 
+> 현재 AWSKRUG에서 번역작업을 진행하고 있습니다. 번역작업에 참가하고 싶으신 분들은 [Issues](https://github.com/awskrug/non-profit-blockchain/issues)에서 파일별로 마련된 이슈티켓을 댓글을 남겨 주시기 바랍니다. 번역 작업은 [AWSKRUG 번역 가이드라인](https://github.com/awskrug/awskrug-rule-book/wiki/Hands-on-lab-translation-guide)에 따라 진행되오니 꼭 숙지하여 주시기 바랍니다. 번역 작업에 사용할 브랜치는 maeter 입니다.
 
 # Amazon Managed Blockchain Workshop
 
